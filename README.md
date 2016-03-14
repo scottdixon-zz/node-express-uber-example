@@ -1,11 +1,11 @@
 ### NodeJS: Express + Uber - Request a ride
 
-A bare bones 'request an Uber' implementation.
+A bare bones 'request an Uber' implementation. Created for use with https://flic.io/
 
 Leverages: [node-uber](https://github.com/shernshiou/node-uber) & [express](http://expressjs.com/).
 
 - Clone repo & `npm install`
-- [Register your app]](https://developer.uber.com/) and set the redirect URL to `http://localhost:3000/callback`
+- [Register your app](https://developer.uber.com/) and set the redirect URL to `http://localhost:3000/callback`
 - Update your Uber app credentials
 - Update your pickup location & [product id](https://developer.uber.com/docs/v1-products)
 - Run the server: `node .` 
